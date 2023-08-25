@@ -1,1 +1,1 @@
-import { AuthState } from '../store/auth/types';
+import { AuthState } from '@/store/auth/types';
